@@ -1,0 +1,24 @@
+
+[VERBOSE]
+Separation result: 0.178201
+Model_type: half,full body; Img_tag: waist/knee/full/undefined; item_tag:top/bottom/dress/undefined; Separation
+1
+4
+4
+0
+Feature starting
+img_type Top/Bottom/Dress/Mannequin
+4
+item_type top/Bottom/Dress/mannequin
+4
+dress_label
+4
+sleeve_label: sleeveless, short, half, long
+5
+coarse_colors
+12,3,51808096,0
+fine_colors
+259,68,35075504,0
+texture_label
+0
+Item_type:4

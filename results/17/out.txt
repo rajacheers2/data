@@ -1,0 +1,53 @@
+
+[VERBOSE]
+Separation result: 0.369431
+Model_type: half,full body; Img_tag: waist/knee/full/undefined; item_tag:top/bottom/dress/undefined; Separation
+1
+3
+4
+1
+Feature starting
+img_type Top/Bottom/Dress/Mannequin
+3
+item_type top/Bottom/Dress/mannequin
+2
+dress_label
+3
+sleeve_label: sleeveless, short, half, long
+2
+coarse_colors
+10,32751,49078128,0
+fine_colors
+266,32751,31519408,0
+texture_label
+0
+Feature starting
+img_type Top/Bottom/Dress/Mannequin
+3
+item_type top/Bottom/Dress/mannequin
+3
+dress_label
+3
+sleeve_label: sleeveless, short, half, long
+5
+coarse_colors
+12,7,3,0
+fine_colors
+259,209,72,0
+texture_label
+0
+Feature starting
+img_type Top/Bottom/Dress/Mannequin
+3
+item_type top/Bottom/Dress/mannequin
+1
+dress_label
+3
+sleeve_label: sleeveless, short, half, long
+2
+coarse_colors
+6,10,3,0
+fine_colors
+177,266,68,0
+texture_label
+0
